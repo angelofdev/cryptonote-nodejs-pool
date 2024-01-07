@@ -13,6 +13,7 @@
 		"bignum": "*",
 		"bufferutil": "*",
 		"cli-color": "*",
+		"cryptonote-util": "git+https://github.com/kevacoin-project/node-cryptonote-util#xmr-Nan-2.0",
 		"cryptoforknote-util": "git+https://github.com/MoneroOcean/node-cryptoforknote-util.git",
 		"cryptonight-hashing": "git+https://github.com/MoneroOcean/node-cryptonight-hashing.git",
 		"dateformat": "^4.5.1",
